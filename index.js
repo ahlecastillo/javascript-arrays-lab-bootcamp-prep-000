@@ -13,6 +13,7 @@ function destructivelyRemoveLastKitten() {
   return kittens
 }
 
+
 var kittens ["Milo", "Otis", "Garfield"];
 
 function destructivelyRemoveFirstKitten(){
